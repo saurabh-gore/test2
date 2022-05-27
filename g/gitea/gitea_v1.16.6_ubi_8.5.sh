@@ -4,7 +4,7 @@
 # Package       : gitea         
 # Version       : v1.16.6         
 # Source repo   : https://github.com/go-gitea/gitea         
-# Language	  : Python         
+# Language	  : Go         
 # Tested on     : ubi_8.5         
 # Travis-Check  : True         
 # Script License: Apache License Version 2.0          
